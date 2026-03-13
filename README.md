@@ -5,7 +5,7 @@ Applied ideas on using Bezier curves &amp; hybrid tetrational-polynomials to fit
 [![Colab Ready](https://img.shields.io/badge/Colab-ready-blue)](#quickstart-colab)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-informational)](#installation)
 
-**Primary repository:** `OJB-Quantum/Onri-Bezier-Approximation`
+**Primary repository:** `OJB-Quantum/Bernstein-Surrogate-Approximation`
 
 **Repository URL:** [https://github.com/OJB-Quantum/Bernstein-Surrogate-Approximation](https://github.com/OJB-Quantum/Bernstein-Surrogate-Approximation)
 
