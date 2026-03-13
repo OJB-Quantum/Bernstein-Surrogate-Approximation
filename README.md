@@ -126,7 +126,7 @@ in which the power‑tower $^{m}(x)=x^{x^{\cdot^{\cdot^{x}}}}$ of height $m$ sup
 
 Because it treats every target merely as a *curve in a metric space*, OBA never asks *what* the ordinate represents (charge, entropy, or fluid height), only *where* the sampled points lie.
 
-* **Unit agnosticism** –  All coordinates enter after non‑dimensionalisation $x\mapsto(x-x_0)/\Delta x$.
+* **Unit agnosticism** –  All coordinates enter after non‑dimensionalization $x\mapsto(x-x_0)/\Delta x$.
 * **Domain‑agnostic handles** –  Control‑point density derives from a scale‑free curvature metric
 
   $$\kappa(t)=\frac{|B'(t)\times B''(t)|}{|B'(t)|^{3}},$$
