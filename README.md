@@ -1,4 +1,4 @@
-# Onri's Bezier Approximation (OBA) 
+# Bernstein Surrogate Approximation (BSA)
 Applied ideas on using Bezier curves &amp; hybrid tetrational-polynomials to fit or approximate curves in data of virtually any magnitude. Authored by Onri Jay Benally.
 
 [![License](https://img.shields.io/badge/GNU_General_Public-License-Green)](https://choosealicense.com/licenses/gpl-3.0)
@@ -7,7 +7,7 @@ Applied ideas on using Bezier curves &amp; hybrid tetrational-polynomials to fit
 
 **Primary repository:** `OJB-Quantum/Onri-Bezier-Approximation`
 
-**Repository URL:** [https://github.com/OJB-Quantum/Onri-Bezier-Approximation](https://github.com/OJB-Quantum/Onri-Bezier-Approximation)
+**Repository URL:** [https://github.com/OJB-Quantum/Onris-Bezier-Approximation](https://github.com/OJB-Quantum/Onris-Bezier-Approximation)
 
 **Interactive demo:** [https://g.co/gemini/share/35aaa5180fc9](https://g.co/gemini/share/35aaa5180fc9)
 
@@ -126,7 +126,7 @@ in which the power‑tower $^{m}(x)=x^{x^{\cdot^{\cdot^{x}}}}$ of height $m$ sup
 
 Because it treats every target merely as a *curve in a metric space*, OBA never asks *what* the ordinate represents (charge, entropy, or fluid height), only *where* the sampled points lie.
 
-* **Unit agnosticism** –  All coordinates enter after non‑dimensionalisation $x\mapsto(x-x_0)/\Delta x$.
+* **Unit agnosticism** –  All coordinates enter after non‑dimensionalization $x\mapsto(x-x_0)/\Delta x$.
 * **Domain‑agnostic handles** –  Control‑point density derives from a scale‑free curvature metric
 
   $$\kappa(t)=\frac{|B'(t)\times B''(t)|}{|B'(t)|^{3}},$$
@@ -2531,6 +2531,7 @@ plt.show()
 ```
 
 ![Untitled](https://github.com/user-attachments/assets/9536c52f-3879-444d-b528-ae0a6e551270)
+
 
 ---
 
