@@ -7,7 +7,7 @@ Applied ideas on using Bezier curves &amp; hybrid tetrational-polynomials to fit
 
 **Primary repository:** `OJB-Quantum/Onri-Bezier-Approximation`
 
-**Repository URL:** [https://github.com/OJB-Quantum/Onris-Bezier-Approximation](https://github.com/OJB-Quantum/Bernstein-Surrogate-Approximation)
+**Repository URL:** [https://github.com/OJB-Quantum/Bernstein-Surrogate-Approximation](https://github.com/OJB-Quantum/Bernstein-Surrogate-Approximation)
 
 **Notebook viewer:** [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OJB-Quantum/Bernstein-Surrogate-Approximation/tree/main/)
 
